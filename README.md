@@ -1,19 +1,11 @@
 # vue3
 
-## Project setup
+## About Project
 ```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
+Simple SPA with most usable features like searching, sorting, pagination and e.t.c
 ```
 
-### Compiles and minifies for production
+### what was used in the project
 ```
-npm run build
+Dicomposition, Router, Mixins, Directives, Store, CompositionAPI
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
